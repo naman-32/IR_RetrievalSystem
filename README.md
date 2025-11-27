@@ -3,7 +3,7 @@
 This repository contains the project completed in the partial fulfillment of the course Information Retrieval (CS F469) by Dr. Vinti Agarwal.
 
 #### For more details regarding the problem statement, refer [problem statement](Problem-Statement.pdf)
-
+#### For more details about the approach and example results, refer [project report](Report-Final.pdf)
 
 ## Steps to execute:
 
